@@ -1,0 +1,20 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("cmd-mode capf"
+ (filename . "d:/projects/cmd-mode/cmd-mode.el")
+ (front-context-string . "\n(defun cmd--ign")
+ (rear-context-string . "\f\n;; Completion\n")
+ (position . 8601))
+("progmodes"
+ (filename . "c:/dev/emacs/share/emacs/25.0.94/lisp/progmodes/")
+ (front-context-string . "cc-fonts.el\n  -r")
+ (rear-context-string . "3k May 17 12:16 ")
+ (position . 7631))
+("cc-fonts.el"
+ (filename . "c:/dev/emacs/share/emacs/25.0.94/lisp/progmodes/cc-fonts.el")
+ (front-context-string . "			      nil))))")
+ (rear-context-string . " (match-end 0))\n")
+ (position . 11104))
+)
